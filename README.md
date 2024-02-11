@@ -45,9 +45,9 @@
 ## Region of Interest:
 
   * **Car**
-
-    <img src="assets/car_frame1.png" alt>
-    
+  
+  <img src="assets/car_frame1.png" alt style="width: 400px; height: 400px;">
+  
   * **Landing Helicopter**
-
-    <img src="assets/landing_frame1.png" alt>
+  
+  <img src="assets/landing_frame1.png" alt="Landing Helicopter" style="width: 400px; height: 400px;">
